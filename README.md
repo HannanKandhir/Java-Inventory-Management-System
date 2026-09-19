@@ -49,6 +49,20 @@ This project helped me improve my Java programming skills and understand how Obj
 
 I also practiced creating graphical user interfaces with JavaFX, managing multiple classes, handling user input, and organizing a larger Java project.
 
+## Screenshots
+
+### Main Dashboard
+![Inventory Dashboard](screenshots/inventory-dashboard.png)
+
+### Search Feature
+![Search Feature](screenshots/search-feature.png)
+
+### Stock Management
+![Stock Management](screenshots/stock-management.png)
+
+### Login Screen
+![Login Screen](screenshots/login-screen.png)
+
 ## Author
 
 Abdul Hannan Kandhir
