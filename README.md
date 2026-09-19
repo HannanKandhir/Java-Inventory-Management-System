@@ -52,16 +52,17 @@ I also practiced creating graphical user interfaces with JavaFX, managing multip
 ## Screenshots
 
 ### Main Dashboard
-![Inventory Dashboard](screenshots/inventory-dashboard.png)
+![Inventory Dashboard](screenshots/inventory-dashboard.png.png)
 
 ### Search Feature
-![Search Feature](screenshots/search-feature.png)
+![Search Feature](screenshots/search-feature.png.png)
 
 ### Stock Management
-![Stock Management](screenshots/stock-management.png)
+![Stock Management](screenshots/stock-management.png.png)
 
 ### Login Screen
-![Login Screen](screenshots/login-screen.png)
+![Login Screen](screenshots/login-screen.png.png)
+
 
 ## Author
 
